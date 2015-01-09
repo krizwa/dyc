@@ -1,0 +1,113 @@
+<div class="information">
+    <div class="energyRating"></div>
+    <div id="ctl00_content_1_PricingInformation_pricingDiv" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer" class="pricing withOffer">
+        <p id="ctl00_content_1_PricingInformation_originalPrice" class="originalPrice strikeThrough">Was: £379.99</p>
+        <p id="ctl00_content_1_PricingInformation_price" itemprop="price" class="price">Now: £229.99
+            <span id="ctl00_content_1_PricingInformation_SavingSpan" class="saving"><br>Save: £150.00
+            </span>
+            <span class="salesTaxText">
+            </span>
+        </p>
+        <a id="ctl00_content_1_PricingInformation_HyperLink1">
+            <p class="additionnalText1"></p>
+        </a>
+        <a id="ctl00_content_1_PricingInformation_HyperLink2">
+            <p class="additionnalText2"></p>
+        </a>
+    </div>
+
+    <section id="ctl00_content_1_ReviewsInformation_ratingSection" class="ratingSection">
+        <div id="ctl00_content_1_ReviewsInformation_ratingClassDiv" class="rating ratingHalf4">
+            <div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+                <span class="ratingStars" itemprop="ratingValue">
+                    4.6
+                </span>
+                <span itemtypemprop="reviewCount" onclick="dyson.tracking.trackProductDetails('reviews')">
+                    <a id="ctl00_content_1_ReviewsInformation_ReviewHyperLink" class="reviewLink" href="http://www.dyson.co.uk/vacuum-cleaners/upright/dc50/dc50-animal-erp.aspx#productReviewsWidget">744 reviews.</a>
+
+                </span>
+                &nbsp;
+            </div>
+        </div>
+    </section>
+
+
+
+    <script type="text/javascript">
+    jQuery(document).ready(function () {
+        jQuery('a.reviewLink').on('click', function (e) {
+            var $link = $(this);
+            var url = $link.attr('href');
+            var anchor = url.substring(url.indexOf("#"));
+            if (anchor == "#productReviewsWidget") {
+                e.preventDefault();
+                $('html, body').stop().animate({
+                    scrollTop: $(anchor).offset().top
+                }, 500);
+            }
+        });
+    });
+    </script>
+
+    <p class="productDetaildispatch">
+        Estimated dispatch:
+        <span class="bold">
+            <link itemprop="availability" href="http://schema.org/InStock">
+            Next working day*
+        </span>
+    </p>
+
+    <div id="ctl00_content_1_AddToBasketButton_AddToBasketButton">
+
+        <a id="ctl00_content_1_AddToBasketButton_GreenButton" class="bgGreenButton" onclick="dyson.tracking.trackAddToBasketLink('product_details','Add to basket')" href="http://www.dyson.co.uk/checkout/basket/add.aspx?product=DC50-ANIMAL-ERP">
+            <p>
+                Add to basket
+            </p>
+            <span></span>
+        </a> 
+
+
+
+    </div>
+
+
+    <span class="productDetailInformation"> 
+        *if order is placed before 1pm
+    </span>
+
+
+
+
+
+    <div id="ctl00_content_1_infoLinks" class="informationLinks">
+
+        <ul>
+
+            <li class="InformationLink">
+                <a id="ctl00_content_1_InformationLinksRepeater_ctl00_InformationLinkRef" class=" js_LightboxStandard" onclick="dyson.tracking.trackProductDetails('information_links')" href="//www.dyson.co.uk/lightboxes/shop/informationlinks/5yearguaranteespecific/informationlink_5yearguaranteespecific.aspx">
+                    <span class="informationLinkImg">
+                        <img src="/medialibrary/Group/Icons/Sprites/5year.ashx" alt="" width="33" height="72">
+                    </span>
+                    <span>
+                        5 year guarantee
+                    </span>
+                </a>
+            </li>
+
+            <li class="InformationLink">
+                <a id="ctl00_content_1_InformationLinksRepeater_ctl01_InformationLinkRef" class=" js_LightboxStandard" onclick="dyson.tracking.trackProductDetails('information_links')" href="//www.dyson.co.uk/lightboxes/shop/informationlinks/freedelivery/informationlink_freedelivery.aspx">
+                    <span class="informationLinkImg">
+                        <img src="/medialibrary/Group/Icons/Sprites/delivery.ashx" alt="" width="33" height="72">
+                    </span>
+                    <span>
+                        Free next day delivery
+                    </span>
+                </a>
+            </li>
+
+        </ul>
+
+    </div>
+
+    <a id="ctl00_content_1_FindRetailerBtn" class="btnFindRetailer" onclick="dyson.tracking.where_to_buy('trackproductdetails')" href="http://www.dyson.co.uk/shop/find-a-retailer.aspx">Find a retailer</a>
+</div>

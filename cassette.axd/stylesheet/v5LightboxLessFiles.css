@@ -1,0 +1,1953 @@
+.fancybox-inner iframe {
+    width: 100%
+}
+.fancybox-skin {
+    background: transparent!important;
+    box-shadow: none
+}
+.lightbox {
+    padding: 30px 0 0 30px
+}
+.lightbox a {
+    background: none repeat scroll 0 0 #d4d4d5;
+    color: #000;
+    padding: 10px;
+    text-decoration: none
+}
+.lightboxHidden {
+    background: none repeat scroll 0 0 #fff;
+    font-family: "Futura-Lt-BT";
+    height: 600px;
+    margin: auto;
+    overflow: hidden;
+    width: 800px
+}
+.lightboxHidden a {
+    background: none repeat scroll 0 0 #d4d4d5;
+    color: #000;
+    padding: 10px;
+    text-decoration: none
+}
+.lightboxHidden .lightboxImg {
+    float: right
+}
+.lightboxHidden .linghtboxInfo {
+    float: left;
+    margin-left: 47px;
+    margin-top: 34px;
+    margin-bottom: 10px;
+    width: 339px
+}
+.lightboxHidden .linghtboxInfo .lightboxlight {
+    background: url("../../file/V5Images/Lightbox/lightboxLight-8350e9c01c2de8cb851fcfcfbfcf478e7c5fbb80.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 47px;
+    width: 100%
+}
+.lightboxHidden .linghtboxInfo h1 {
+    font-size: 30px;
+    margin: 0;
+    padding-top: 12px
+}
+.lightboxHidden .linghtboxInfo h2 {
+    border-bottom: 1px solid #ccc;
+    font-size: 29px;
+    font-family: 'Futura-Lt-BT';
+    margin: 0;
+    padding-bottom: 32px;
+    position: relative;
+    top: -6px
+}
+.lightboxHidden .linghtboxInfo .LightboxText {
+    border-bottom: solid thin #acacac;
+    border-top: solid thin #acacac;
+    padding-bottom: 19px;
+    padding-top: 17px;
+    margin-top: 26px
+}
+.lightboxHidden .linghtboxInfo .LightboxText p {
+    font-family: arial;
+    font-size: 12px;
+    line-height: 18px;
+    width: 270px
+}
+.lightboxHidden .linghtboxInfo .lightboxLearnMore {
+    background: none repeat scroll 0 0 #ccc!important;
+    border-radius: 21px 21px 21px 21px;
+    display: block;
+    text-align: center;
+    width: 97px
+}
+.ie .lightboxHidden {
+    height: auto!important;
+    min-height: 513px!important;
+    width: 100%!important
+}
+.fRight {
+    float: right
+}
+.fLeft {
+    float: left
+}
+.widget {
+    width: 980px;
+    margin: auto
+}
+.widget h2 {
+    font-family: 'FuturaBT-Book';
+    text-align: center
+}
+.widget h2 {
+    color: #333;
+    font-size: 30px;
+    margin: 0 0 20px 0;
+    font-weight: normal
+}
+.widget h3 {
+    font-family: Arial, sans-serif;
+    color: #333;
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 0 20px 0
+}
+.smallPrice {
+    color: #333;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 15px;
+    text-decoration: line-through
+}
+.bigPrice {
+    font-size: 20px!important;
+    font-weight: bold;
+    color: #c00;
+    margin: 6px 0 0
+}
+.savePrice, .plusProducts {
+    font-size: 13px!important;
+    color: #c00;
+    font-weight: bold
+}
+.plusProducts {
+    margin: 3px 0
+}
+.regularPrice {
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px
+}
+.rating span {
+    font-size: 11px;
+    color: #666;
+    margin-left: 5px;
+    position: relative;
+    top: 3px
+}
+.rating img {
+    position: relative;
+    top: 3px
+}
+.ButtonGreen {
+    background: none repeat scroll 0 0 #79b928;
+    border-radius: 20px;
+    color: #fff;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 7px 17px;
+    text-decoration: none;
+    cursor: pointer
+}
+.ButtonGreen:hover {
+    background-color: #69a239
+}
+.standard {
+    font-size: 15px;
+    font-weight: bold;
+    color: #333
+}
+.lineThrough {
+    text-decoration: line-through
+}
+.biggerText {
+    font-size: 17px!important
+}
+.smallFont {
+    font-size: 10px;
+    color: #333
+}
+.blueText {
+    color: #0a6acb;
+    font-size: 10px
+}
+.blueText.standard {
+    font-size: 14px;
+    font-weight: bold
+}
+.redText {
+    color: #cc0001;
+    font-size: 10px
+}
+.redText.standard {
+    font-size: 14px;
+    font-weight: bold
+}
+.ButtonWhiteBorder {
+    background: #fff;
+    border: 2px solid #d6d6d6;
+    display: inline-block;
+    height: auto;
+    margin: auto;
+    padding: 7px 16px;
+    text-decoration: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold
+}
+ul.table {
+    display: table
+}
+ul.table {
+    display: table
+}
+ul.table.even {
+    width: 100%;
+    table-layout: fixed
+}
+ul.table>li {
+    display: table-cell
+}
+.listRegistrationAsset {
+    overflow: hidden;
+    padding: 10px 0 0 0;
+    margin-top: 1px;
+    margin-bottom: 20px;
+    width: 980px;
+    margin: 0 0 0 10px
+}
+.listRegistrationAsset .listOfItems {
+    display: table;
+    text-align: center;
+    padding: 0;
+    overflow: hidden;
+    margin: auto;
+    width: 981px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px
+}
+.listRegistrationAsset .listOfItems .itemsRegistration:first-child {
+    border-left: none!important
+}
+.listRegistrationAsset .listOfItems .itemsRegistration {
+    background-color: #f3f3f3;
+    border: medium none;
+    color: #333;
+    float: left;
+    list-style: none outside none;
+    padding: 7px 0;
+    width: 322px;
+    font-weight: bold;
+    border-left: 7px solid #fff
+}
+.listRegistrationAsset .listOfItems .itemsRegistration h4 {
+    font-weight: bold;
+    float: left;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding-top: 5px
+}
+.listRegistrationAsset .listOfItems .itemsRegistration .icon {
+    background: none repeat scroll 0 0 #fff;
+    border-radius: 25px;
+    float: left;
+    margin-left: 8px;
+    margin-right: 10px;
+    padding: 4px 6px;
+    width: 16px;
+    color: #666
+}
+.listRegistrationAsset .listOfItems .itemsRegistration li.itemsRegistration:first-child {
+    margin-left: 0!important
+}
+.listRegistrationAsset .listOfItems .itemsRegistration.active {
+    background-color: #0a6acb;
+    color: #fff
+}
+.listRegistrationAsset .listOfItems .itemsRegistration:hover .icon {
+    color: #333
+}
+h2.checked {
+    background: url("../../file/V5Images/AssetRegistration/assetCheck-e5d709e618ce8f459533713ae74d27705374a5fb.png") no-repeat scroll left center transparent;
+    padding: 10px 0 10px 47px;
+    font-size: 20px
+}
+h2.failed {
+    background: url("http://www.dyson.co.uk:80/V5css/images/orderFailed.png") no-repeat scroll left center transparent;
+    padding: 10px 0 10px 47px;
+    font-size: 20px
+}
+.bgLightButton {
+    background: scroll 213px center #d6d6d6;
+    border-radius: 20px;
+    color: #000;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 11px 30px 11px 20px;
+    text-decoration: none
+}
+a.disabled {
+    background: #f3f3f3;
+    color: #bababa;
+    pointer-events: none
+}
+.fancybox-opened .fancybox-skin {
+    -webkit-box-shadow: 0 0 0 transparent!important;
+    -moz-box-shadow: 0 0 0 transparent!important;
+    box-shadow: 0 0 0 transparent!important
+}
+input[type="checkbox"], input[type="radio"] {
+    padding: 0!important;
+    border: 0!important
+}
+.priceSalesTaxInfo, .salesTaxText {
+    font-size: 12px!important;
+    color: #333!important;
+    font-family: Arial, sans-serif!important;
+    font-weight: normal!important
+}
+@media only screen and (min-width: 768px)and (max-width: 1023px) {
+    .ipad #footer {
+        padding-bottom: 200px
+    }
+    .ipad div[id*="pnlStep1"] {
+        min-height: 480px
+    }
+}
+.lightboxHidden .linghtboxInfo h2 {
+    padding-bottom: 0!important;
+    border-bottom: none!important;
+    font-family: 'Futura-Md-BT'
+}
+.lightboxHidden .linghtboxInfo h1 {
+    font-family: 'Futura-Md-BT'
+}
+.scfDropListBorder, .scfEmailBorder, .scfMultipleLineTextBorder, .scfSingleLineTextBorder, .scfPasswordBorder, .scfNumberBorder, .scfDateBorder, .scfRadioButtonListBorder, .scfListBoxBorder, .scfCheckBoxListBorder, .scfFileUploadBorder, .scfDateSelectorBorder, .scfCreditCardBorder, .scfConfirmPasswordBorder, .scfCaptchaBorder, .scfTelephoneBorder, .scfSmsTelephoneBorder {
+    clear: left;
+    text-align: left;
+    display: block;
+    margin: 1px 0!important;
+    width: 100%;
+    vertical-align: top;
+    overflow: hidden
+}
+.scfEmailGeneralPanel, .scfMultipleLineGeneralPanel, .scfSingleLineGeneralPanel, .scfPasswordGeneralPanel, .scfNumberGeneralPanel, .scfDateGeneralPanel, .scfRadioButtonListGeneralPanel, .scfCheckBoxListGeneralPanel, .scfFileUploadGeneralPanel, .scfDateSelectorGeneralPanel, .scfCreditCardGeneralPanel, .scfConfirmPasswordGeneralPanel, .scfCaptchaGeneralPanel, .scfTelephoneGeneralPanel, .scfSmsTelephoneGeneralPanel, .scfDropListGeneralPanel {
+    padding: 0 0 9px 0!important;
+    width: 220px!important;
+    display: block;
+    float: left
+}
+.scfSectionContent {
+    width: 100%;
+    float: left;
+    padding-top: 10px;
+    border-top: solid thin #acacac
+}
+.scfCheckbox {
+    width: 102%!important;
+    display: block;
+    padding: 0 0;
+    margin: 0
+}
+.scfCheckbox label {
+    font-size: 13px!important;
+    width: 320px;
+    float: right;
+    line-height: 16px;
+    font-family: "Futura-Lt-BT"!important;
+    margin-top: 3px
+}
+.scfIntroBorder {
+    font-size: 11px;
+    font-family: 'Futura-Lt-BT', sans-serif;
+    margin-left: 2px;
+    margin-bottom: 0!important;
+    width: 100%
+}
+.articleContainer .formContainer .scfSubmitButtonBorder input {
+    width: 100px;
+    padding-left: 0;
+    padding-right: 0;
+    float: left;
+    background: none repeat scroll 0 0 #d6d6d5;
+    border: medium none;
+    border-radius: 20px 20px 20px 20px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    height: 32px;
+    padding: 0 14px
+}
+.scfSubmitButtonBorder {
+    clear: both;
+    width: 100%;
+    padding-top: 17px;
+    border-top: solid thin #acacac
+}
+.scfEmailTextBox, .scfSingleLineTextBox, .scfPasswordTextBox, .scfNumberTextBox, .scfDateTextBox, .scfRadioButtonList, .scfListBox, .scfCheckBoxList, .scfFileUpload, .scfCreditCardTextBox, .scfCreditCardType, .scfConfirmPasswordTextBox, .scfTelephoneTextBox, .scfSmsTelephoneTextBox {
+    width: 220px!important;
+    margin: 0;
+    float: right;
+    margin-top: -27px;
+    background: #f3f3f3;
+    border: solid thin #acacac
+}
+.scfListBox, .scfDropList {
+    width: 60%;
+    margin: 0;
+    float: right;
+    margin-top: -27px;
+    background: #f3f3f3;
+    border: solid 1px #acacac
+}
+.scfValidator {
+    margin: -7px 4px!important;
+    display: block;
+    float: left;
+    font-size: .75em;
+    color: red;
+    clear: both;
+    height: 13px;
+    padding-top: 2px;
+    padding-bottom: 1px
+}
+.scfValidator[style='visibility: hidden'] {
+    display: none
+}
+.scfValidator[style='visibility: visible'] {
+    display: block
+}
+.scfSectionBorder {
+    margin: 0;
+    padding: 0;
+    width: 100%!important
+}
+.scfDropListLabel, .scfEmailLabel, .scfMultipleLineTextLabel, .scfSingleLineTextLabel, .scfPasswordLabel, .scfNumberLabel, .scfDateLabel, .scfRadioButtonListLabel, .scfCheckBoxListLabel, .scfListBoxLabel, .scfFileUploadLabel, .scfDateSelectorLabel, .scfCreditCardLabel, .scfConfirmPasswordLabel, .scfCaptchaLabel, .scfTelephoneLabel, .scfSmsTelephoneLabel {
+    font-size: .75em;
+    width: 119px!important;
+    display: block;
+    float: left;
+    font-family: 'Futura-Lt-BT', sans-serif;
+    margin-right: 0!important
+}
+.galleryWrapper {
+    background: none repeat scroll 0 0 #fff;
+    height: 610px;
+    margin: auto;
+    overflow: hidden;
+    padding: 45px;
+    width: 710px
+}
+.galleryWrapper .navigation {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 15px
+}
+.galleryWrapper li.active img {
+    width: 96px!important;
+    height: auto!important;
+    border: 2px solid #000!important
+}
+.galleryWrapper ul {
+    padding: 0
+}
+.galleryWrapper li {
+    list-style-type: none;
+    float: left
+}
+.galleryWrapper h2 {
+    font-size: 12px;
+    font-family: arial, sans-serif;
+    color: #666;
+    margin: 0
+}
+#GalleryThumbnails {
+    overflow: hidden;
+    height: 80px;
+    margin: 15px 0 0
+}
+#GalleryThumbnails .overlayVideoThumb, #GalleryThumbnails .overlay360Thumb {
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+    z-index: 1;
+    position: absolute;
+    left: 35px;
+    top: 28px;
+    cursor: pointer
+}
+#GalleryThumbnails .overlayVideoThumb {
+    background: url("../../file/v5Images/GalleryLightbox/Thumb_video_idle-1fa190e12da8038fe65bbfbd408076259b80fc45.png") no-repeat 0 0 transparent
+}
+#GalleryThumbnails .overlay360Thumb {
+    background: url("../../file/v5Images/GalleryLightbox/Thumb_360_idle-5e77031b578c8c0018a4e33f9438b98a95316173.png") no-repeat 0 0 transparent
+}
+#GalleryThumbnails li {
+    margin-right: 12px;
+    position: relative;
+    width: 100px;
+    height: 80px
+}
+#GalleryThumbnails li img {
+    border: 1px solid #ccc;
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+    width: 100px
+}
+#GalleryThumbnails li:hover .overlayVideoThumb {
+    background: url("../../file/v5Images/GalleryLightbox/Thumb_video_rollover-bc8a915a7ce8f8d09bf83b20270940bbab0af8ef.png") no-repeat 0 0 transparent
+}
+#GalleryThumbnails li:hover .overlay360Thumb {
+    background: url("../../file/v5Images/GalleryLightbox/Thumb_360_rollover-1e8e2d044c64ae6e9d76a82097903e75328add2e.png") no-repeat 0 0 transparent
+}
+#GalleryThumbnails li:last-child {
+    padding-right: 2px
+}
+#GalleryThumbnails .view360Thumb, #GalleryThumbnails .videoThumb {
+    margin-right: 14px!important
+}
+.product360View {
+    padding: 0
+}
+.carousel-stage ul {
+    width: 100%;
+    height: 440px;
+    overflow: hidden;
+    margin: 15px 0 0 0
+}
+.carousel-stage ul li {
+    width: 100%;
+    height: 100%;
+    position: relative
+}
+.carousel-stage ul .caption {
+    font-size: 12px;
+    font-family: arial, sans-serif;
+    color: #666;
+    margin-top: 2px!important
+}
+.galleryTitle {
+    border-bottom: 1px solid #000;
+    padding-bottom: 2px
+}
+.galleryTitle h1 {
+    background: url("http://www.dyson.co.uk:80/cassette.axd/file/V5Images/GalleryLightbox/bgTitleGallery-69b34a9373048ebb398a2c0f5a64af176c5ddf48.png") no-repeat scroll left center transparent;
+    color: #000;
+    font-family: 'Futura-Md-BT', sans-serif;
+    font-size: 30px;
+    margin: 0;
+    padding-bottom: 3px;
+    padding-left: 70px;
+    padding-top: 3px;
+    font-weight: normal
+}
+.zoomContainer {
+    display: none
+}
+.jcarousel-item-wrapper h2 {
+    font-size: 20px;
+    color: #333;
+    font-family: 'Futura-Lt-BT';
+    font-weight: normal;
+    margin-top: 25px
+}
+.jcarousel-item-wrapper p {
+    line-height: 17px;
+    width: 98%;
+    margin-top: 8px;
+    padding-right: 10px
+}
+.view360Gallery .productView {
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto
+}
+.view360Gallery .productView .product360View {
+    display: none;
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+.view360Gallery .productView .product360View img {
+    display: none;
+    height: 400px!important;
+    margin: auto;
+    width: auto!important
+}
+.view360Gallery .productView .product360View img.previous-image {
+    display: none;
+    width: 0
+}
+.view360Gallery .productView .product360View img.current-image {
+    display: block;
+    width: 710px
+}
+.view360Gallery .productView .spinner {
+    width: 60px;
+    display: block;
+    margin: 0 auto;
+    height: 30px;
+    background: #333;
+    background: rgba(0, 0, 0, .7);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px
+}
+.view360Gallery .productView .spinner span {
+    font-family: Arial, "MS Trebuchet", sans-serif;
+    font-size: 12px;
+    font-weight: bolder;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+    display: block
+}
+.view360Gallery .productView .nav_bar {
+    top: 150px;
+    left: 10%;
+    z-index: 11;
+    width: 80%;
+    position: absolute
+}
+.view360Gallery .productView .nav_bar a {
+    display: block;
+    width: 32px;
+    height: 32px;
+    float: left;
+    background: url("http://www.dyson.co.uk:80/cassette.axd/file/V5Images/GalleryLightbox/sprites-a69b20d59e7fcf363a2180e28736af4c693a7dbd.png") no-repeat;
+    text-indent: -99999px
+}
+.view360Gallery .productView .nav_bar a.nav_bar_play {
+    background-position: 0 0;
+    display: none
+}
+.view360Gallery .productView .nav_bar a.nav_bar_previous {
+    background-position: 3px 0
+}
+.view360Gallery .productView .nav_bar a.nav_bar_next {
+    background-position: -20px 0;
+    float: right
+}
+.wrapper_content .pageHeader {
+    margin: 0 10px 0 10px;
+    border-bottom: 1px solid #666;
+    overflow: hidden;
+    padding: 20px 0;
+    font-family: Arial, Sans-serif;
+    color: #333;
+    clear: both;
+    width: 980px;
+    margin: auto;
+    background: #fff;
+    padding-top: 90px
+}
+.wrapper_content .pageHeader .cBoth {
+    clear: both
+}
+.wrapper_content .pageHeader .breadCrumbShop ul {
+    overflow: hidden;
+    padding: 0;
+    margin: 0 0 10px 0
+}
+.wrapper_content .pageHeader .breadCrumbShop li {
+    float: left;
+    list-style-type: none
+}
+.wrapper_content .pageHeader .breadCrumbShop a {
+    background: url("../../file/V5Images/PageHeader/breadShopCrumbArrow-541d0706c66173ec8ccb4d2c449c148ec6c17dd2.gif") no-repeat right;
+    padding-right: 10px;
+    margin-right: 5px;
+    color: #999;
+    text-decoration: none
+}
+.wrapper_content .pageHeader .breadCrumbShop a, .wrapper_content .pageHeader .breadCrumbShop span {
+    font-size: 11px
+}
+.wrapper_content .pageHeader .breadCrumbShop span {
+    color: #333
+}
+.wrapper_content .pageHeader h1 {
+    color: #6f6f6f;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: 'Futura-Md-BT';
+    float: left;
+    margin: 0 0 0 15px
+}
+.wrapper_content .pageHeader h2 {
+    color: #6f6f6f;
+    font-size: 30px;
+    font-weight: normal;
+    font-family: 'Futura-Md-BT';
+    float: left;
+    margin: 0 0 0 15px
+}
+.wrapper_content .pageHeader .contact {
+    float: right;
+    font-weight: bold;
+    margin-right: 20px;
+    font-family: Arial, Sans-serif;
+    font-size: 14px
+}
+.wrapper_content .pageHeader .contact a {
+    text-decoration: none;
+    color: #333;
+    display: block
+}
+.wrapper_content .pageHeader .contact a:hover {
+    text-decoration: underline
+}
+.wrapper_content .pageHeader .contact .phone, .wrapper_content .pageHeader .contact .chat {
+    float: left;
+    padding-left: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 25px;
+    height: 20px
+}
+.wrapper_content .pageHeader .contact .phone {
+    background: url('../../file/V5Images/PageHeader/spritePageHeader-f778b689f365f0cad5d35a4840bc19fdd520958f.png') no-repeat 0 -74px transparent
+}
+.wrapper_content .pageHeader .contact a.phone:hover {
+    background-position: 0 -111px
+}
+.wrapper_content .pageHeader .contact .chat {
+    background: url('../../file/V5Images/PageHeader/spritePageHeader-f778b689f365f0cad5d35a4840bc19fdd520958f.png') no-repeat 0 0 transparent
+}
+.wrapper_content .pageHeader .contact a.chat:hover {
+    background-position: 0 -37px
+}
+.wrapper_content .pageHeader .contact .checkout {
+    float: left;
+    margin-top: 8px
+}
+.selectRange {
+    border-bottom: 1px solid #ccc;
+    clear: both;
+    height: 30px;
+    margin: auto;
+    padding: 18px 0;
+    position: relative;
+    width: 980px;
+    background: #fff
+}
+.selectRange * {
+    padding: 0;
+    margin: 0
+}
+.selectRange ul {
+    overflow: hidden;
+    float: left;
+    margin-left: 18px
+}
+.selectRange li {
+    list-style: none;
+    float: left;
+    margin-right: 35px
+}
+.selectRange li a {
+    color: #666;
+    font-family: arial, Sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    text-decoration: none;
+    display: block
+}
+.selectRange li a:hover {
+    text-decoration: underline
+}
+.selectRange li a span+span {
+    position: relative;
+    top: 7px;
+    width: auto
+}
+.selectRange span {
+    display: block;
+    float: left;
+    height: 28px;
+    width: 35px;
+    margin-top: -2px;
+    overflow: hidden
+}
+.selectRange .InformationLink img {
+    position: relative;
+    border: none
+}
+.selectRange .InformationLink:hover img {
+    top: -41px
+}
+.ie9 .chosen-results {
+    width: 100%
+}
+.shopLightbox {
+    background: none repeat scroll 0 0 #fff;
+    padding: 15px 30px;
+    margin: auto;
+    -webkit-box-shadow: 0 10px 25px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 0 10px 25px rgba(0, 0, 0, .5);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, .5)
+}
+.shopLightbox .header {
+    padding-bottom: 10px;
+    width: 100%;
+    border-bottom: 2px solid;
+    display: block
+}
+.shopLightbox .shopLightboxTitles {
+    border-bottom: 1px solid #ccc
+}
+.shopLightbox p {
+    font-family: Arial;
+    font-size: 13px
+}
+.shopLightbox h1 {
+    font-family: "Futura-Md-BT", sans-serif;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+    font-weight: normal
+}
+.shopLightbox h1 span {
+    display: block;
+    padding-bottom: 10px;
+    font-family: "Futura-Lt-BT", sans-serif
+}
+.shopLightbox .content.tall {
+    height: 240px;
+    overflow: auto
+}
+.shopLightbox .content {
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    margin-bottom: 10px
+}
+.shopLightbox .content ul {
+    margin-top: 0;
+    padding-left: 0;
+    padding-top: 15px
+}
+.shopLightbox .content ul p:first-child {
+    margin-top: 0
+}
+.shopLightbox .content ul.container>li {
+    vertical-align: top
+}
+.shopLightbox .content ul.container>li:first-child {
+    padding-right: 10px;
+    text-align: left
+}
+.shopLightbox .content ul.container>li:nth-child(2) {
+    max-width: 200px;
+    text-align: right
+}
+.shopLightbox .content ul.container>li:nth-child(2) img {
+    width: 200px
+}
+.shopLightbox .content ul.container>li:nth-child(2) img {
+    width: 200px
+}
+.shopLightbox p+a.remove {
+    float: left!important
+}
+.shopLightbox .basicLink {
+    margin-top: 30px
+}
+.shopLightbox .basicLink a {
+    font-family: arial;
+    font-size: 11px;
+    text-decoration: underline;
+    font-weight: normal;
+    color: #666;
+    cursor: pointer;
+    clear: both;
+    display: block;
+    padding-top: 25px
+}
+.shopLightbox .ButtonLight.remove {
+    text-align: center;
+    float: right
+}
+.shopLightbox .buttonRemoveSeparator {
+    display: none
+}
+.shopLightbox.small {
+    width: 330px;
+    padding: 30px 50px
+}
+.shopLightbox.small h1 {
+    padding-bottom: 10px
+}
+.shopLightbox.small .content p {
+    margin: 15px 0 35px 0
+}
+.shopLightbox.large {
+    width: 550px
+}
+.shopLightbox .ButtonLight, .lightboxForm .ButtonLight {
+    background: none repeat scroll 0 0 #d6d6d5!important;
+    border: medium none;
+    border-radius: 20px;
+    color: #333;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    height: 14.7px!important;
+    display: inline-block!important;
+    margin: auto!important;
+    padding: 7px 16px!important;
+    text-decoration: none!important;
+    min-width: 100px;
+    text-align: center
+}
+.shopLightbox .ButtonLight:hover, .lightboxForm .ButtonLight:hover {
+    background: none repeat scroll 0 0 #b2b3b4!important
+}
+.shopLightbox .pageHeader, .linghtboxInfo .pageHeader {
+    border-top: 1px solid #ccc;
+    background: transparent;
+    padding: 15px 0 0 0!important;
+    width: 100%!important;
+    border-bottom: none!important
+}
+.shopLightbox .pageHeader .contact, .linghtboxInfo .pageHeader .contact {
+    float: left!important
+}
+.shopLightbox .pageHeader .contact a:first-child, .linghtboxInfo .pageHeader .contact a:first-child {
+    margin-left: 0
+}
+.shopLightbox .pageHeader .contact span, .linghtboxInfo .pageHeader .contact span {
+    margin-left: 0!important;
+    margin-right: 20px
+}
+.linghtboxInfo .pageHeader {
+    margin-top: 10px
+}
+.bestShopForm {
+    padding-top: 12px
+}
+.bestShopForm .cssButtonWrapper {
+    left: 0!important;
+    position: relative
+}
+.lightboxForm {
+    font-size: 11px;
+    font-family: 'Futura-Lt-BT', sans-serif
+}
+.lightboxForm .formFields {
+    margin-bottom: 10px;
+    border-bottom: solid thin #acacac;
+    padding-bottom: 2px;
+    padding-top: 10px;
+    border-top: solid thin #acacac;
+    margin-top: 2px
+}
+.lightboxForm .row {
+    margin-bottom: 7px;
+    overflow: hidden
+}
+.lightboxForm .labelForm {
+    display: block;
+    float: left;
+    width: 120px;
+    margin-top: 5px
+}
+.lightboxForm .labelForm p {
+    margin: 0;
+    padding: 0
+}
+.lightboxForm .inputForm {
+    width: 215px;
+    display: block;
+    float: left
+}
+.lightboxForm .inputForm input {
+    width: 99%;
+    background: none repeat scroll 0 0 #f3f3f3;
+    border: 1px solid #ccc;
+    padding: 2px
+}
+.lightboxHidden.withScrollLightbox {
+    overflow-y: auto
+}
+.registrationTopContent .leftTitle {
+    color: #333;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: Futura-Md-BT;
+    float: left;
+    margin: 0 0 0 15px
+}
+.leftContent .content .separator_line_light {
+    margin-top: 30px
+}
+.backLink {
+    position: relative;
+    left: 117px
+}
+.assetRegistrationContent {
+    overflow: hidden;
+    margin-bottom: 20px;
+    width: 980px;
+    margin: 20px auto 50px auto
+}
+.assetRegistrationContent .leftContent+.fRight {
+    width: 240px
+}
+.assetRegistrationContent .leftContent a {
+    color: #333
+}
+.assetRegistrationContent h2 {
+    margin: 0;
+    font-size: 16px;
+    color: #333;
+    font-family: arial;
+    font-weight: bold
+}
+.assetRegistrationContent .leftContent {
+    margin: 0;
+    width: 715px;
+    float: left
+}
+.assetRegistrationContent .leftContent .content {
+    margin: 20px;
+    overflow: hidden
+}
+.assetRegistrationContent .leftContent .content h2 span {
+    font-size: 16px;
+    font-weight: bold
+}
+.assetRegistrationContent .leftContent .content:first-child {
+    margin-top: 0
+}
+.assetRegistrationContent .leftContent .labelForm {
+    width: 149px;
+    float: left;
+    margin: 0 10px 0 0;
+    position: relative;
+    text-align: right;
+    top: 7px
+}
+.assetRegistrationContent .leftContent .disabledContent h2, .assetRegistrationContent .leftContent .disabledContent input, .assetRegistrationContent .leftContent .disabledContent p, .assetRegistrationContent .leftContent .disabledContent span, .assetRegistrationContent .leftContent .disabledContent select, .assetRegistrationContent .leftContent .disabledContent a, .assetRegistrationContent .leftContent .disabledContent label {
+    color: #adadad!important
+}
+.assetRegistrationContent .leftContent .disabledContent input, .assetRegistrationContent .leftContent .disabledContent select {
+    background: #f0f0f0!important
+}
+.assetRegistrationContent .leftContent .disabledContent a {
+    pointer-events: none
+}
+.assetRegistrationContent .leftContent .disabledContent img {
+    opacity: .4
+}
+.assetRegistrationContent .leftContent .disabledContent .buttonLight {
+    background: #efefef!important
+}
+.assetRegistrationContent .leftContent .disabledContent .buttonLight:hover {
+    color: #adadad!important;
+    background: #efefef!important
+}
+.assetRegistrationContent .leftContent .subTitle, .assetRegistrationContent .leftContent .requiredField {
+    color: #333;
+    font-size: 12px;
+    font-weight: 500;
+    margin: 20px 0 0 0;
+    font-family: arial, sans-serif;
+    display: block
+}
+.assetRegistrationContent .leftContent .subTitle a, .assetRegistrationContent .leftContent .requiredField a {
+    text-decoration: underline;
+    cursor: pointer
+}
+.assetRegistrationContent .leftContent .serialInfoRequest {
+    color: #333;
+    font-size: 12px;
+    margin: 16px 0 0 69px
+}
+.assetRegistrationContent .leftContent .serialInfoRequest input.registerTextBox {
+    text-transform: uppercase!important
+}
+.assetRegistrationContent .leftContent .serialInfoRequest a {
+    margin-bottom: 10px
+}
+.assetRegistrationContent .leftContent .serialInfoRequest a img {
+    vertical-align: top;
+    margin-top: 4px
+}
+.assetRegistrationContent .leftContent .serialInfoRequest .plainText {
+    font-family: arial, sans-serif;
+    position: relative;
+    display: block;
+    font-weight: normal;
+    padding-top: 0!important;
+    font-size: 15px!important;
+    top: -2px
+}
+.assetRegistrationContent .leftContent .serialInfoRequest .plainText input {
+    border: none!important;
+    background: none!important;
+    padding: 2px 0 0 0!important
+}
+.assetRegistrationContent .leftContent span {
+    font-family: arial, sans-serif;
+    font-size: 12px
+}
+.assetRegistrationContent .leftContent .row p {
+    float: left;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    margin: 0 10px 0 0;
+    position: relative;
+    text-align: right;
+    top: -1px;
+    width: 157px
+}
+.assetRegistrationContent .leftContent .form {
+    overflow: hidden
+}
+.assetRegistrationContent .leftContent .form input {
+    border: 1px solid #ccc;
+    color: #666;
+    padding: 5px 10px
+}
+.assetRegistrationContent .leftContent .form input:focus {
+    background: #f3f3f3
+}
+.assetRegistrationContent .leftContent .form .mediumWidht {
+    width: 213px;
+    margin-right: 3px
+}
+.assetRegistrationContent .leftContent .form #datePicker {
+    width: 220px;
+    background-color: #fff
+}
+.assetRegistrationContent .leftContent .form select {
+    border: 1px solid #ccc;
+    padding: 7px 0 5px 9px;
+    width: 235px!important
+}
+.assetRegistrationContent .leftContent .form select:focus {
+    background: #f3f3f3
+}
+.assetRegistrationContent .leftContent .form .editButton {
+    float: left;
+    padding: 5px 15px;
+    clear: both
+}
+.assetRegistrationContent .leftContent .buttonFindMachine {
+    margin-left: 169px;
+    margin-top: 25px
+}
+.assetRegistrationContent .leftContent .buttonFindMachine .ButtonWrapper {
+    background: none repeat scroll 0 0 #fff;
+    border: 2px solid #c00;
+    border-bottom: none;
+    display: inline-block;
+    padding: 10px 10px 0 10px
+}
+.assetRegistrationContent .leftContent .buttonFindMachine .errorMsg {
+    background: none repeat scroll 0 0 #fff;
+    border: 2px solid #c00;
+    color: #c00;
+    font-family: arial, sans-serif;
+    margin-top: -2px;
+    padding: 15px 10px 0 10px;
+    font-weight: bold
+}
+.assetRegistrationContent .leftContent .buttonFindMachine .errorMsg p {
+    margin: 0 0 5px 0;
+    font-weight: bold
+}
+.assetRegistrationContent .leftContent .buttonFindMachine .errorMsg ul {
+    padding: 0;
+    margin-top: 5px
+}
+.assetRegistrationContent .leftContent .buttonFindMachine .errorMsg ul li {
+    list-style: none;
+    font-weight: normal;
+    background: url("../../file/V5Images/AssetRegistration/errorBackgroundLi-8be8e597fbb96358f7c342a1e119b7700e019718.png") no-repeat left top transparent;
+    padding-left: 10px;
+    margin-bottom: 5px
+}
+.assetRegistrationContent .leftContent .buttonFindMachine .errorMsg span {
+    font-weight: normal
+}
+.assetRegistrationContent .leftContent .buttonFindMachine .errorMsg span.underlined {
+    text-decoration: underline
+}
+.assetRegistrationContent .leftContent .bold {
+    font-weight: bold
+}
+.assetRegistrationContent .leftContent .smallLink {
+    cursor: pointer;
+    margin-left: 170px;
+    color: #333
+}
+.assetRegistrationContent .leftContent .checkContent {
+    font-family: arial, sans-serif;
+    font-size: 11px;
+    line-height: 16px;
+    margin-left: 259px;
+    margin-top: 15px;
+    overflow: hidden;
+    margin-bottom: 35px
+}
+.assetRegistrationContent .leftContent .checkContent label {
+    margin-left: 5px;
+    margin-top: -3px;
+    width: 340px;
+    color: #333
+}
+.assetRegistrationContent .leftContent .checkContent input, .assetRegistrationContent .leftContent .checkContent label {
+    display: block;
+    float: left
+}
+.assetRegistrationContent .leftContent .checkContent input {
+    margin-right: 10px
+}
+.assetRegistrationContent .leftContent .infoLightbox {
+    margin-left: 0!important
+}
+.assetRegistrationContent .leftContent #datePicker+img {
+    margin-left: 8px;
+    vertical-align: top;
+    margin-top: -1px
+}
+.assetRegistrationContent .leftContent .noLabel {
+    margin-left: 167px
+}
+.assetRegistrationContent .leftContent .lrgInput {
+    width: 100%
+}
+.assetRegistrationContent .leftContent textarea {
+    border: 1px solid #ccc;
+    color: #666;
+    height: 190px;
+    padding: 10px;
+    resize: none
+}
+.assetRegistrationContent .leftContent .radioButton {
+    float: left;
+    font-family: arial;
+    margin-bottom: 15px;
+    margin-top: -2px!important;
+    width: 200px
+}
+.assetRegistrationContent .leftContent .radioButton input {
+    width: 15px!important;
+    top: 2px;
+    position: relative
+}
+.assetRegistrationContent .leftContent .radioButton ul {
+    font-weight: bold;
+    padding: 0;
+    margin: 20px 0 0 20px
+}
+.assetRegistrationContent .leftContent .radioButton ul li {
+    list-style: none;
+    margin-bottom: 3px
+}
+.assetRegistrationContent .smallLink {
+    text-decoration: underline;
+    font-family: arial, sans-serif;
+    font-size: 11px
+}
+.assetRegistrationContent .rightContent .leftTitle {
+    color: #666;
+    padding: 18px 0 14px 15px!important
+}
+.assetRegistrationContent .rightContent p {
+    display: block;
+    clear: both;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    margin-left: 2px
+}
+.assetRegistrationContent .rightContent .buttonLight {
+    position: relative;
+    left: 15px;
+    top: 5px;
+    margin-bottom: 10px!important
+}
+.assetRegistrationContent .rightContent .editButton {
+    font-size: 10px!important;
+    text-decoration: none
+}
+.assetRegistrationContent .rightContent .part2 {
+    padding: 15px 15px 0 15px
+}
+.assetRegistrationContent .rightContent .listPoints {
+    clear: both;
+    font-size: 12px;
+    color: #333;
+    line-height: 18px;
+    font-family: arial
+}
+.assetRegistrationContent .rightContent .listPoints p {
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    padding-top: 0;
+    margin: 0
+}
+.assetRegistrationContent .rightContent .listPoints ul {
+    padding: 0
+}
+.assetRegistrationContent .rightContent .listPoints ul li {
+    color: #333;
+    font-family: arial, sans-serif;
+    font-size: 12px!important;
+    line-height: 19px;
+    margin-bottom: 10px;
+    list-style: none;
+    background: url("../../file/V5Images/AssetRegistration/pointList-cc88c48a18f2c7f9352707eff8519b0f382ddacc.png") no-repeat -3px 2px transparent;
+    padding-left: 10px;
+    padding-top: 0
+}
+.assetRegistrationContent .rightContent .machineDetailsList {
+    clear: both;
+    width: 215px;
+    font-family: arial, sans-serif
+}
+.assetRegistrationContent .rightContent .machineDetailsList .part2 {
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    border-top: solid thin #c4c4c4
+}
+.assetRegistrationContent .rightContent .machineDetailsList p {
+    font-size: 12px;
+    line-height: 17px;
+    color: #666
+}
+.assetRegistrationContent .rightContent .machineDetailsList ul {
+    color: #666;
+    padding: 0;
+    margin-bottom: 10px!important
+}
+.assetRegistrationContent .rightContent .machineDetailsList ul li {
+    margin-bottom: 10px;
+    list-style: none;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold
+}
+.assetRegistrationContent .rightContent .infoDetails {
+    clear: both;
+    color: #666;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    margin: auto;
+    padding-top: 1px;
+    width: 212px
+}
+.assetRegistrationContent .rightContent .infoDetails a {
+    float: left;
+    margin-bottom: 10px
+}
+.assetRegistrationContent .rightContent .rightContentFooter {
+    border-top: 1px solid #ccc;
+    color: #666;
+    font-family: arial, sans-serif;
+    font-size: 11px;
+    padding: 10px 10px 0 10px;
+    overflow: hidden
+}
+.assetRegistrationContent .rightContent .rightContentFooter a.smallLink {
+    padding: 4px 5px 4px!important;
+    float: left!important;
+    font-size: 10px;
+    color: #666;
+    font-family: arial
+}
+.assetRegistrationContent .rightContent .rightContentFooter p.smallLink {
+    padding: 4px 5px 4px!important;
+    float: left!important;
+    font-size: 10px;
+    color: #666;
+    font-family: arial;
+    text-decoration: none;
+    margin: 0!important
+}
+.assetRegistrationContent .rightContent.whiteBackground {
+    background: none repeat scroll 0 0 #fff;
+    padding: 0 10px 0 0;
+    width: 230px
+}
+.assetRegistrationContent .rightContent.whiteBackground br {
+    display: none
+}
+.assetRegistrationContent .rightContent.whiteBackground h2 {
+    padding: 10px 0!important;
+    border: none;
+    font-size: 14px
+}
+.assetRegistrationContent .rightContent.whiteBackground div {
+    clear: both;
+    color: #666;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    line-height: 17px;
+    padding-top: 5px
+}
+.assetRegistrationContent .rightContent.whiteBackground p {
+    margin: 5px 0
+}
+.assetRegistrationContent .rightContent.whiteBackground ul {
+    margin: 0;
+    padding: 0 10px 0 16px
+}
+.assetRegistrationContent .rightContent.whiteBackground ul li {
+    margin-bottom: 5px
+}
+.assetRegistrationContent .rightContent.whiteBackground a {
+    text-decoration: underline;
+    color: #666
+}
+.editButton {
+    background: none repeat scroll 0 0 #999;
+    border-radius: 21px;
+    color: #fff;
+    float: right;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 4px 25px;
+    cursor: pointer
+}
+.editButton:hover {
+    background: #666
+}
+.editButton.contentConfirmationButton {
+    float: none;
+    margin: 10px 0 0 10px;
+    display: inline-block;
+    font-family: arial;
+    padding: 4px 15px
+}
+.star-rating {
+    background: url("../../file/V5images/AssetRegistration/star_rate1-2412fdb6147108ed622b2cbed7c722ea3e4bbf46.png") repeat scroll 0 0 transparent;
+    display: inline-block;
+    font-size: 0;
+    height: 23px;
+    overflow: hidden;
+    position: relative;
+    white-space: nowrap;
+    width: 120px
+}
+.star-rating i {
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 20%;
+    z-index: 1;
+    background: url('../../file/V5images/AssetRegistration/star_rate2-e15efad379ee24695c2ba16002eba64747870543.png');
+    background-size: contain
+}
+.star-rating input {
+    -moz-appearance: none;
+    display: inline-block;
+    height: 100%;
+    margin: 0;
+    opacity: 0;
+    padding: 0;
+    position: relative;
+    width: 17%;
+    z-index: 2
+}
+.star-rating input:hover+i, .star-rating input:checked+i {
+    opacity: 1
+}
+.star-rating i~i {
+    width: 47px
+}
+.star-rating i~i~i {
+    width: 72px
+}
+.star-rating i~i~i~i {
+    width: 96px
+}
+.star-rating i~i~i~i~i {
+    width: 100%
+}
+.rate {
+    position: relative;
+    top: 10px
+}
+.rate .radioButton {
+    width: 100px!important
+}
+.rate .star-rating {
+    background: url("../../file/V5images/AssetRegistration/rate1-7d6af305f4057238159fbf3ca6d0fbb6e9b21dc3.png") repeat scroll 0 0 transparent;
+    display: inline-block;
+    font-size: 0;
+    height: 12px;
+    overflow: hidden;
+    position: relative;
+    white-space: nowrap;
+    width: 140px
+}
+.rate .star-rating i {
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 20%;
+    z-index: 1;
+    background: url('../../file/V5images/AssetRegistration/rate2-4be24d73c4025d342e68ef862dbb6b1359db1bd5.png');
+    background-size: contain
+}
+.rate .star-rating i~i {
+    height: 11px;
+    width: 51px
+}
+.rate .star-rating i~i~i {
+    width: 80px
+}
+.rate .star-rating i~i~i~i {
+    width: 108px
+}
+.rate .star-rating i~i~i~i~i {
+    width: 100%
+}
+p.assetText {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    line-height: 20px
+}
+p.assetText a {
+    color: #333
+}
+.smallLinkMargin {
+    margin-left: 160px
+}
+.myMachineImg {
+    background: #fff;
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+    height: 160px;
+    width: 210px
+}
+.assetRegistrationForm .contentConfirmationButton {
+    margin-bottom: 5px!important
+}
+.assetRegistrationForm #TelephoneInputField {
+    margin-left: 0!important
+}
+.assetRegistrationForm .row#GenderInputField {
+    margin-bottom: 18px
+}
+.assetRegistrationForm a#AddNewAddress {
+    margin-left: 170px!important;
+    margin-top: 10px!important
+}
+.assetRegistrationForm .changeLink {
+    margin: 0!important;
+    font-size: 10px!important;
+    top: -7px!important
+}
+.assetRegistrationForm a#CantFindDeliveryAddress+.buttonFindMachine {
+    min-height: 25px
+}
+.assetRegistrationForm a#FindMyAddressHyperLink, .assetRegistrationForm .findAddress {
+    background: #d6d6d6!important;
+    padding: 5px 15px!important;
+    border: medium none;
+    border-radius: 20px 20px 20px 20px;
+    cursor: pointer;
+    font-size: 11px;
+    font-weight: bold;
+    font-family: Arial;
+    text-decoration: none;
+    width: 110px;
+    text-align: center
+}
+.assetRegistrationForm a#FindMyAddressHyperLink:hover, .assetRegistrationForm .findAddress:hover {
+    background: none repeat scroll 0 0 #b2b3b4!important
+}
+.assetRegistrationForm .radioButton+.findAddress {
+    float: left;
+    clear: both;
+    margin-top: 15px;
+    margin-left: 15px
+}
+.assetRegistrationForm #pnlPostcodeRow {
+    margin-top: 0
+}
+.assetRegistrationForm #pnlPostcodeRow+.serialInfoRequest, .assetRegistrationForm #pnlStreetRow+.serialInfoRequest {
+    margin-top: 5px;
+    overflow: hidden
+}
+.assetRegistrationForm #pnlPostcodeRow+.serialInfoRequest #Dontknowpostcode, .assetRegistrationForm #pnlStreetRow+.serialInfoRequest #Dontknowpostcode, .assetRegistrationForm #pnlPostcodeRow+.serialInfoRequest #Knowpostcode, .assetRegistrationForm #pnlStreetRow+.serialInfoRequest #Knowpostcode, .assetRegistrationForm #pnlPostcodeRow+.serialInfoRequest #SearchAgain, .assetRegistrationForm #pnlStreetRow+.serialInfoRequest #SearchAgain {
+    margin-left: 170px
+}
+.assetRegistrationForm #AddNewAddressHyperLink {
+    margin-left: 0!important;
+    color: #333!important
+}
+.assetRegistrationForm #PasswordInputField {
+    margin-left: -150px
+}
+.assetRegistrationForm #CountryRow .form {
+    position: relative;
+    top: -4px
+}
+.assetRegistrationForm #pnlPostcodeRow input {
+    text-transform: uppercase
+}
+.assetRegistrationForm #pnlPostcodeRow input {
+    text-transform: uppercase
+}
+.assetRegistrationForm div#PasswordInputField+.buttonFindMachine.pnllogin {
+    margin-top: 7px
+}
+.assetRegistrationForm div#PasswordInputField+.buttonFindMachine.pnllogin .smallLink {
+    margin-left: 0!important
+}
+.assetRegistrationForm .serialInfoRequest .editButton {
+    float: left;
+    text-decoration: none;
+    font-family: arial;
+    padding: 4px 14px;
+    margin: 20px 0 0 167px;
+    background: #ccc
+}
+.assetRegistrationForm .rightContent {
+    margin-bottom: 20px!important
+}
+.assetRegistrationForm #pnlStreetRow, .assetRegistrationForm #pnlStreet2Row, .assetRegistrationForm #pnlCountyRow {
+    margin-top: 10px;
+    margin-left: 80px
+}
+.assetRegistrationForm #pnlCityRow {
+    margin-top: 0;
+    margin-left: 80px
+}
+.assetRegistrationForm a#SearchAgainLoggedUser {
+    margin-left: 170px
+}
+.assetRegistrationForm #EmailInputField .infoLightbox {
+    margin-left: 5px!important
+}
+.assetRegistrationForm #EmailInputField+div .buttonFindMachine {
+    margin-top: 10px
+}
+.assetRegistrationForm #EmailInputField+.row {
+    margin-left: 160px!important;
+    margin-top: 10px!important
+}
+.assetRegistrationForm #EmailInputField+.row .buttonLight {
+    width: 90px;
+    text-align: center
+}
+.assetRegistrationForm #EmailInputField+.row .buttonFindMachine {
+    margin-left: 10px;
+    margin-top: 5px
+}
+.assetRegistrationForm #EmailInputField+.row .buttonFindMachine .buttonLight {
+    padding: 7px 28px!important
+}
+.assetRegistrationForm #pnlStoredAddress+.buttonFindMachine {
+    margin-left: 150px;
+    margin-top: 0
+}
+.assetRegistrationForm #pnlStoredAddress+.buttonFindMachine .buttonLight {
+    padding: 3px 15px!important;
+    font-size: 11px;
+    margin-top: 20px!important
+}
+.assetRegistrationForm div#pnlSubmit .buttonFindMachine, .assetRegistrationForm div#pnlSubmit .serialInfoRequest {
+    margin-top: 3px!important
+}
+.assetRegistrationForm #Street2InputField input {
+    margin-left: 160px
+}
+.assetRegistrationForm #content_2_pnlRegister .checkContent {
+    margin-left: 260px
+}
+.assetRegistrationForm #PostcodeInputField {
+    margin-left: 0
+}
+.assetRegistrationForm div#pnlWhereCountryHouse {
+    margin-top: 0
+}
+.assetRegistrationForm div#TitleInputField select {
+    width: 120px!important
+}
+.assetRegistrationForm div#pnlStoredAddress {
+    margin-top: 45px
+}
+.assetRegistrationForm div#pnlStoredAddress .editButton {
+    color: #fff;
+    text-decoration: none
+}
+.assetRegistrationForm div#pnlStoredAddress li#AddressPostcode {
+    margin-top: 13px
+}
+.serialNumberMachine {
+    text-transform: uppercase
+}
+.gecko .assetRegistrationContent .leftContent .form select, .ie .assetRegistrationContent .leftContent .form select {
+    padding: 7px 4px 5px 9px!important
+}
+.ie .backLink {
+    position: relative;
+    left: 105px
+}
+.ie .assetRegistrationContent .mediumWidht {
+    width: 200px!important
+}
+.ie .assetRegistrationContent select.mediumWidht {
+    width: 222px!important
+}
+.ie .assetRegistrationContent #datePicker {
+    width: 223px!important;
+    background-color: #fff
+}
+.ie .assetRegistrationContent .radioButton input {
+    padding: 0!important;
+    border: none!important
+}
+#erpRatingLightbox {
+    background-color: #000;
+    color: #fff;
+    height: 600px;
+    font-family: Arial, sans-serif;
+    width: 800px
+}
+#erpRatingLightbox h2 {
+    font-size: 35px;
+    margin: 12px 0 5px
+}
+#erpRatingLightbox h3 {
+    font-size: 20px;
+    margin: 5px 0 15px
+}
+#erpRatingLightbox h2, #erpRatingLightbox h3 {
+    font-family: "Futura-Md-BT", sans-serif;
+    font-weight: normal
+}
+#erpRatingLightbox h3, #erpRatingLightbox p {
+    color: #999
+}
+#erpRatingLightbox p {
+    font-size: 14px;
+    font-family: "Futura-Lt-BT", sans-serif
+}
+#erpRatingLightbox ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    height: 408px
+}
+#erpRatingLightbox ul li {
+    border-top: 1px solid #999
+}
+#erpRatingLightbox ul li:last-child {
+    border-bottom: 1px solid #999
+}
+#erpRatingLightbox .col2 {
+    padding: 35px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 486px
+}
+#erpRatingLightbox .col2 .ButtonLight {
+    background: #d6d6d5!important;
+    border: medium none;
+    border-radius: 20px 20px 20px 20px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    color: #333;
+    font-family: Arial;
+    height: 14.7px!important;
+    text-decoration: none!important;
+    color: #000!important;
+    display: inline-block!important;
+    height: auto!important;
+    padding: 7px 16px!important;
+    margin: 5px auto auto
+}
+#erpRatingLightbox .col2 p {
+    font-size: 12px
+}
+#erpFicheLightbox {
+    background-color: #fff;
+    color: #181818;
+    height: 600px;
+    font-family: Arial, sans-serif;
+    width: 800px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 35px
+}
+#erpFicheLightbox span {
+    background-image: url('../../file/Images/content/dyson-logo-63f567c8c1104cbafeb328b46636f71c1a3c6849.jpg');
+    background-size: 80px;
+    background-repeat: no-repeat;
+    height: 33px;
+    width: 80px;
+    display: block
+}
+#erpFicheLightbox h2, #erpFicheLightbox h3 {
+    font-weight: normal;
+    font-size: 30px
+}
+#erpFicheLightbox h2 {
+    border-top: 2px solid #181818;
+    font-family: "Futura-Md-BT", sans-serif;
+    padding-top: 15px;
+    margin: 5px 0 0
+}
+#erpFicheLightbox h3 {
+    font-family: "Futura-Lt-BT", sans-serif;
+    margin: 0 0 50px
+}
+#erpFicheLightbox ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 0 20px
+}
+#erpFicheLightbox ul li {
+    border-top: 1px solid #ccc;
+    overflow: hidden;
+    font-family: "Futura-Lt-BT", sans-serif;
+    padding: 10px 5px;
+    font-size: 18px
+}
+#erpFicheLightbox ul li div:first-child {
+    font-family: "Futura-Lt-BT", sans-serif;
+    float: left
+}
+#erpFicheLightbox ul li div:last-child {
+    font-family: "Futura-Md-BT", sans-serif;
+    float: right
+}
+#erpFicheLightbox ul li:last-child {
+    border-bottom: 1px solid #ccc
+}
+#erpFicheLightbox p {
+    color: #666;
+    font-size: 14px;
+    width: 70%;
+    font-family: "Futura-Lt-BT", sans-serif
+}
+.errorMsgInline {
+    font-size: 13px;
+    color: #06c;
+    font-family: Arial, sans-serif;
+    margin-top: 15px
+}
+.errorFloatLeft {
+    color: #06c;
+    font-family: arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    margin-left: 10px;
+    width: 175px
+}
+.errorSide {
+    color: #cc0100;
+    font-family: arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    margin-left: 10px;
+    width: 190px;
+    float: right;
+    visibility: hidden
+}
+.errorOverlap {
+    color: #cc0100;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    padding: 5px 10px 10px 10px;
+    background: #fff;
+    border: 2px solid #cc0100;
+    margin-top: -2px
+}
+.errorOverlap p {
+    float: none!important;
+    width: auto!important;
+    font-weight: bold;
+    text-align: left!important;
+    margin-bottom: 10px!important
+}
+.bestShopForm .cssButtonWrapper {
+    left: 135px;
+    position: relative
+}
+.bestShopForm .cssButtonWrapper .errorMsgBase {
+    background: none repeat scroll 0 0 #fff;
+    border: 2px solid #c00;
+    color: #c00;
+    font-family: arial, sans-serif;
+    margin-top: -2px;
+    padding: 15px 10px 0 10px;
+    font-weight: bold;
+    font-size: 12px;
+    display: none
+}
+.bestShopForm .cssButtonWrapper .errorMsgBase p {
+    margin: 0 0 5px 0;
+    font-weight: bold
+}
+.bestShopForm .cssButtonWrapper .errorMsgBase ul {
+    padding: 0;
+    margin-top: 5px
+}
+.bestShopForm .cssButtonWrapper .errorMsgBase ul li {
+    list-style: none;
+    font-weight: normal;
+    background: url("../../file/V5Images/AssetRegistration/errorBackgroundLi-8be8e597fbb96358f7c342a1e119b7700e019718.png") no-repeat left top transparent;
+    padding-left: 10px;
+    margin-bottom: 5px
+}
+.bestShopForm .cssButtonWrapper .errorMsgBase span {
+    font-weight: normal
+}
+.bestShopForm .cssButtonWrapper .errorMsgBase span.underlined {
+    text-decoration: underline
+}
+.bestShopForm .cssButtonWrapper.error .errorMsgBase {
+    display: block
+}
+.bestShopForm .cssButtonWrapper.error .ButtonWrapper {
+    background: none repeat scroll 0 0 #fff;
+    border: 2px solid #c00;
+    border-bottom: none;
+    display: inline-block;
+    padding: 10px 10px 0 10px
+}
+.bestShopForm .row.error .labelForm {
+    color: #c00
+}
+.bestShopForm .row.error .inputForm input {
+    border: 1px solid #c00
+}

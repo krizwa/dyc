@@ -1,0 +1,304 @@
+
+/* `````` Making Liquid Responsive [begin] `````` */
+/* Activate Small Screen (mobile behavior) - Landscape View [iPhone 6 plus] */
+
+@media only screen and (max-width: 736px) {
+    html, body {
+        background: #fff;
+    }
+    header, .wrapper_main, .cookiesBanner, #footer .footerLogo, #footer .legalFooter, #footer .footerContainer {
+        width: auto;
+    }
+    /* header */
+    
+    header {
+        right: 0;
+        left: 0;
+        top: 0;
+        position: relative;
+        background-color: #000;
+        overflow: hidden;
+    }
+    header .navFlag, header .wrapper_header_functions ul li {
+        display: none;
+    }
+    header nav {
+        position: relative;
+        text-align: center;
+    }
+    header nav .logo_header {
+        float: none;
+        display: inline-block;
+    }
+    header .nav-menu {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        color: #fff;
+        display: block;
+    }
+    header .nav-menu > a:link, header .nav-menu > a:hover, header .nav-menu > a:visited {
+        color: #fff;
+        padding: 20px 20px 15px 30px;
+        display: block;
+    }
+    header .basket_items {
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        padding: 20px 30px 15px 20px;
+        margin: 0;
+        color: #fff;
+        display: block;
+        white-space: nowrap;
+    }
+    header .basket_items span {
+        background: #fff;
+        padding: 2px 6px 1px 6px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 20px;
+        color: #000;
+    }
+    header .wrapper_header_functions ul li.basket_id, header .wrapper_header_functions .functions_arrow {
+        display: block;
+        background: none!important;
+        color: #fff;
+    }
+    .rsDefault, .rsDefault .rsOverflow {
+        width: auto!important;
+    }
+    .lrgSlider, .innerLrgSlide {
+        height: auto;
+        width: auto;
+    }
+    .rsSlide, .rsDefault .videoLayer, .rsDefault .videoContentOverlay {
+        position: relative;
+        height: auto;
+        width: auto;
+        left: 0!important;
+    }
+    .rsDefault {
+        text-align: center;
+        position: relative;
+        color: #000;
+        background: #fff;
+    }
+    .rsDefault .slideContentBlock {
+        padding: 0 30px 30px 30px;
+        width: auto!important;
+        top: 0!important;
+    }
+    .videoContent img {
+        display: none;
+    }
+    .rsDefault img {
+        width: auto!important;
+        height: auto!important;
+        max-width: 100%;
+    }
+    .slideExtraMotif {
+        position: absolute;
+        top: 30px;
+    }
+    #carouselCarousel1 {
+        background: #f9f9f9;
+    }
+    .pricing {
+        height: auto;
+    }
+    .rating .ratingStars {
+        display: inline-block;
+    }
+    .rating span {
+        float: none;
+    }
+    h1 {
+        font-size: 1.5em;
+    }
+    .pricing .price {
+        font-size: 2em!important;
+    }
+    .rsDefault .information h2 {
+        font-size: 1.2em!important;
+        margin-bottom: 0;
+        line-height: 1.3em;
+    }
+    .ratingSection {
+        margin-bottom: 10px;
+    }
+    a.ButtonYellow, a.ButtonLight, a.ButtonDark {
+        padding: 2px 16px!important;
+    }
+    .rsDefault .videoLayer a, .rsDefault .videoContentOverlay a {
+        text-decoration: underline;
+    }
+    .lrgSlider object {
+        display: none;
+    }
+    .highlighted-slide {
+        background: #000;
+    }
+    .listMainWrapper ul li.itemsWrapper {
+        float: none;
+        width: auto;
+    }
+    .ContentItemsGridGrey {
+        background: #fff;
+    }
+    .ContentItemsGridGrey li.itemsWrapper {
+        padding: 0;
+    }
+    footer, .footer {
+        min-height: 0;
+        height: auto;
+        margin: 0;
+    }
+    .social_net {
+        background: #000;
+    }
+    #footer .footerLogo {
+        padding: 0;
+        text-align: center;
+    }
+    #footer div.social_net {
+        float: none;
+        margin: 0;
+        padding: 18px;
+        width: auto;
+        height: auto;
+        display: block;
+        overflow: hidden;
+    }
+    #footer .social_net a.icon_social_footer {
+        float: left!important;
+        display: inline-block;
+        margin: 0 15px;
+    }
+    .footerLogo > a {
+        display: inline-block;
+        padding: 15px;
+    }
+    /*
+
+    .listMainWrapper .ContentColumns4 {
+        width: 48.56733524%;
+    }
+    .listMainWrapper .ContentColumns4 .inner-Wrapper {
+        padding: 4.137471608% 1.432664756%;
+    }
+    .listMainWrapper ul li.itemsWrapper {
+        margin-bottom: 0;
+    }
+    .listMainWrapper ul li.itemsWrapper img {
+        width: 100%;
+        max-width: none;
+        max-height: none;
+    }
+    .listMainWrapper ul li.itemsWrapper h4 {
+        font-size: 17px;
+        margin-top: 10px;
+    }
+    .listMainWrapper ul li.itemsWrapper p {
+        display: none;
+    }
+    .listMainWrapper ul li.itemsWrapper .inner-Wrapper {
+        height: auto!important;
+    }
+    #footer .footerContainer ul.inlineUL > li {} #footer .footerContainer ul.inlineUL li {
+        float: none;
+        width: auto;
+        clear: both;
+        display: block;
+    }
+    header .wrapper_header_functions ul li {
+        margin-right: 15px!important;
+        padding-left: 40px;
+        height: 22px;
+        padding-top: 8px;
+    }
+    
+    #carouselCarousel img {
+        width: 100%!important;
+        height: auto!important;
+    }
+    #carouselCarousel .slideContentBlock img {
+        width: auto!important;
+    }
+    .rsDefault .videoLayer, .rsDefault .videoContentOverlay, .rsABlock {
+        position: relative;
+        height: auto!important;
+        width: auto!important;
+        left: 10px!important;
+        top: 20px!important;
+        text-align: center;
+    }
+    .xlrgSlider, .innerXLrgSlide {
+        height: 1060px!important;
+    }
+    header .navFlag, header .wrapper_header_functions ul li.social_id, header .wrapper_header_functions ul li.basket_id, header .wrapper_header_functions ul li.language_id, header .navFlag, #footer .footerLogo > a, .breadCrumb_footer, .footerColumn ul {
+        xx_display: none;
+    }
+    header .wrapper_header_functions ul li.mobile_menu_id {
+        display: inline-block;
+    }
+    header .wrapper_header_functions .mobile_menu_id {
+        background: url("../file/V5Images/Header/sprite_header_icons-901a1725249092d0554b3afcd3c9c320fbefe8b0.png") no-repeat!important;
+        background-position: 0 -283px!important;
+        cursor: pointer;
+    }
+    header .wrapper_header_functions ul li {
+        text-indent: 0;
+    }
+    .footerLogo {
+        text-align: center;
+    }
+    #footer div.social_net {
+        float: none;
+        margin: 0;
+        padding: 0;
+        width: auto;
+        height: auto;
+        display: inline-block;
+    }
+    #footer .social_net a.icon_social_footer {
+        float: left!important;
+        display: inline-block;
+        margin: 0 15px;
+    }
+    #footer .footerContainer, .inlineUL {
+        margin: 0;
+        padding: 0;
+    }
+    .footerColumn {
+        padding: 20px;
+        border-bottom: 1px solid #b7b7b8;
+        background: url("../file/V5Images/Header/sprite_header_icons-901a1725249092d0554b3afcd3c9c320fbefe8b0.png") no-repeat!important;
+        background-position: right -308px!important;
+    }
+    .rsDefault .SlideContentLeftAligned a {
+        float: none;
+    }
+    .cookiesBanner {
+        padding: 13px 25px;
+    }
+    .cookiesBanner .cookieMessage {
+        width: 70%;
+    }
+    .cookiesBanner button {
+        width: 30%;
+    }
+    .listMainWrapper.ContentItemsGridWhite {
+        padding: 0 4.137471608%!important;
+    }
+
+    */
+}
+/* Activate Small Screen (mobile behavior) - Portrait View [iPhone 6 Plus, GalaxyS4] */
+
+@media only screen and (max-width: 414px) {} 
+@media only screen and (min-width: 376px) and (max-width: 414px) {}
+/* Activate Small Screen (mobile behavior) - Portrait View [iPhone, GalaxyS4] */
+
+@media only screen and (max-width: 375px) {}
+/* ,,,,,, Making Liquid Responsive [end] ,,,,,,  */
